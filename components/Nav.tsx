@@ -7,7 +7,7 @@ export default function Nav() {
 
   const Links = [
     { name: "Home", href: "/" },
-    { name: "About", href: "/about" },
+
     { name: "Services", href: "/services" },
   ];
 
